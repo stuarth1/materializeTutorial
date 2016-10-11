@@ -7,7 +7,8 @@ To get started please download the materialize files from [here](http://material
 ### Step 1:
 Create a index.html page in your local directory and copy this code and place it in there to get started. 
 
-'  <!DOCTYPE html>
+'  
+<!DOCTYPE html>
   <html>
     <head>
       <!--Import Google Icon Font-->
@@ -24,7 +25,7 @@ Create a index.html page in your local directory and copy this code and place it
       <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
       <script type="text/javascript" src="js/materialize.min.js"></script>
     </body>
-  </html
+  </html>
 '
 
 
