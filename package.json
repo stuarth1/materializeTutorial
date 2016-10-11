@@ -1,0 +1,22 @@
+{
+  "name": "materializetutorial",
+  "version": "1.0.0",
+  "description": "This is my basic Materialize tutorial, the goal is to show you how to use the materialize framework.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuarth1/materializeTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "bugs": {
+    "url": "https://github.com/stuarth1/materializeTutorial/issues"
+  },
+  "homepage": "https://github.com/stuarth1/materializeTutorial#readme"
+}
