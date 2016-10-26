@@ -5,7 +5,7 @@ This is my basic Materialize tutorial, the goal is to show you how to use the ma
 To get started please download the materialize files from [here](http://materializecss.com/getting-started.html). If you find it easier you can also download my source code use it as we go through this tutorial. In this turotial I am going to use some of the basic functionality materialize has given us and show you how to implement it on your own site.
 
 ### Step 1:
-Create a index.html page in your local directory in a folder called pulic. Take the code below and copy and place it in there to get started. Make sure the materializecss is also in the public folder in the same structure it was in when you downloaded it.
+Create a index.html page in your local directory in a folder called public. Take the code below and copy and place it in there to get started. Make sure the materializecss is also in the public folder in the same structure it was in when you downloaded it.
 
 ``` 
 <!DOCTYPE html>
